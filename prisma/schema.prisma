@@ -1,3 +1,4 @@
+// v2 - déploiement propre
 generator client {
   provider = "prisma-client-js"
 }
